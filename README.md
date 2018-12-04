@@ -14,6 +14,8 @@ All AOTY results are in the format `YYYY.txt`.
 
 All Spotify playlists for a given year can be found in `YYYY-all.txt`.
 
+All Spotify playlists in my account can be found at [all.txt](https://github.com/loisaidasam/aoty-sam/blob/master/all.txt).
+
 # Tools
 
 ## Requirements
