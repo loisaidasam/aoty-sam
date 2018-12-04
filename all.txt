@@ -1,143 +1,232 @@
-Hifi Instant Mix
+NPR Music's New Music Friday
 Hifi Edge
 Hifi Pulse
-Discover Weekly
-Release Radar
-Release Radar
-Error w/ playlist #7 - 'NoneType' object has no attribute 'encode'
 Starred
-2017 Singles
-Pond – The Weather
-J Dilla – Motor City
-Cashmere Cat – 9
-Feist – Pleasure
-Sylvan Esso – What Now
-Bibio – Beyond Serious
-Forest Swords – Compassion
-Grouplove – Little Mess EP
-The Afghan Whigs – In Spades
-Moon Duo – Occult Architecture Vol. 2
-Perfume Genius – No Shape
-Mac Demarco – This Old Dog
-Emperor X – Oversleepers International
-Helado Negro – Private Energy (Expanded)
-Tiny Vipers – Laughter
-Plants and Animals – Passed Out From The Waltzing (B-Sides)
-Mary Lattimore – Collected Pieces
-Alexandra Savior – Belladonna of Sadness
-The Big Moon – Love in the 4th Dimension
-Soulwax – FROM DEEWEE
-Drake – More Life
-The Shins – Heartworms
-Laura Marling – Semper Femina
-Jay Som – Everybody Works
-Syd – Fin
-Loyle Carner – Yesterday's Gone
-Actress – AZD
-Hercules & Love Affair – Controller (feat. Faris Badwan) [Remixes]
-Monika – Gaia
-Camera Obscura – Keep It Clean (25th Elefant Anniversary Reissue)
-Gary Clark Jr. – Live North America 2016
-Real Estate – In Mind
-Jagwar Ma – Every Now & Zen
-PINS – Bad Thing
-SKATERS – Rock and Roll Bye Bye 2
-The Bug – Concrete Desert
-Gold Connections – Gold Connections - EP
-Chaz Bundick Meets The Mattson 2 – Star Stuff
-Julia Holter – In The Same Room
-Cassels – Foreword
-Cold Beat – Chaos by Invitation
-Diet Cig – Swear I'm Good At This
-Happyness – Write In
-Arca – Arca
-San Fermin – Belong
-Clark – Death Peak
-Future Islands – The Far Field
-Father John Misty – Pure Comedy
-Mount Eerie — A Crow Looked at Me
-Twin Peaks – Urbs in Horto
-Madlib – Bad Neighbor Instrumentals
+2018 Singles
+Earl Sweatshirt – Some Rap Songs
+Jacco Gardner – Somnium
+Songs: Ohia – The Lioness (Deluxe Edition)
+Calexico – The Black Light (20th Anniversary Edition)
+Art Brut – Wham! Bang! Pow! Let's Rock out!
+Ed Harcourt – Beyond the End
+My Brightest Diamond – A Million and One
+SALES – Forever & Ever
+The Beatles White Album Experience
+Charlie Haden & Brad Mehldau – Long Ago And Far Away (Live)
+Chris Cornell – Chris Cornell (Deluxe Edition)
+Jeffrey Zeigler – The Sound of Science
+The Glands – Double Coda
+Sufjan Stevens – Lonely Man of Winter
+J Mascis – Elastic Days
+The Beatles – The Beatles
+Sun Kil Moon – This Is My Dinner
+boygenius - boygenius
+Maggie Roche – Where Do I Come From
+Ty Segall – Fudge Sandwich
+Julia Holter – Aviary
+Thom Yorke – Suspiria (Music for the Luca Guadagnino Film)
+Mark Kozelek – Mark Kozelek
+Oh Pep! – I Wasn't Only Thinking About You...
+Phony Ppl – mō'zā-ik.
+Peter Bjorn and John – Darker Days
+Elle King – Shake The Spirit
+Tom Morello – The Atlas Underground
+BRONCHO – Bad Behavior
+Ambrose Akinmusire – Origami Harvest
+The Dodos – Certainty Waves
+John Grant – Love Is Magic
+Kurt Vile – Bottle It In
+Adrianne Lenker – abysskiss
+Wolfgang Muthspiel – Where The River Goes
+Swearin' – Fall into the Sun
+Hockey Dad – Blend Inn
+Villagers – The Art Of Pretending To Swim 2
+Liars – Titles With The Word Fountain (TFCF Deluxe Edition) 2
+Lonnie Holley – MITH
+Richard Swift – The Hex
+Christian Sands – Facing Dragons
+Metric – Art of Doubt
+Prince – Piano & A Microphone 1983
+Mountain Man – Magic Ship
+6LACK – East Atlanta Love Letter
+Alejandro Escovedo – The Crossing
+St. Paul & The Broken Bones – Young Sick Camellia
+Shannen Moser – I'll Sing
+Mitski – Be the Cowboy
+Roy Montgomery – Suffuse
+Antonio Vivaldi – ANNO: Four Seasons by Anna Meredith & Antonio Vivaldi
+Trevor Powers – Mulberry Violence
+Great Lake Swimmers – The Waves, The Wake
+Death Cab for Cutie – Thank You for Today
+Animal Collective – Tangerine Reef
+The Internet – Hive Mind
+El Ten Eleven – Banker's Hill
+Tony Molina – Kill the Lights
+Thin Lips – Chosen Family
+Phantastic Ferniture – Phantastic Ferniture
+Israel Nash – Lifted
+Ty Segall and White Fence – Joy
+Self Defense Family – Have You Considered Punk Music
+Wet – Still Run
+Luluc – Sculptor
+The Ophelias – Almost
+The National – Boxer Live in Brussels
+Dirty Projectors – Lamp Lit Prose
+Jim James – Uniform Distortion 2
+AJ Ghent [ j-ent ] – The Neo Blues Project
+Yuno – Moodie
+Jay Rock – Redemption
+SOPHIE – OIL OF EVERY PEARL'S UN-INSIDES
+Buddy Guy – The Blues Is Alive And Well
+Lykke Li – so sad so sexy
+Jorja Smith – Lost & Found
+Snail Mail – Lush
+serpentwithfeet – soil
+River Whyless – Kindness, A Rebel
+Oneohtrix Point Never – Age Of
+LUMP – LUMP
+Albin Lee Meldau – About You
+Natalie Prass – The Future And The Past
+Tancred – Nightstand
+Neko Case – Hell-On
+Niklas Paschburg – Oceanic
+Father John Misty – God's Favorite Customer
+Pusha T – DAYTONA
+Cut Worms – Hollow Ground
+Remember Sports – Slow Buzz
+Nick Grant – Dreamin' Out Loud
+Parquet Courts – Wide Awake!
+Courtney Barnett – Tell Me How You Really Feel
+David Grubbs – Failed Celestial Creatures
+Low Cut Connie – Dirty Pictures (Part 2)
+Stephen Malkmus & The Jicks – Sparkle Hard
+Brad Mehldau Trio – Seymour Reads the Constitution!
+Los Texmaniacs – Cruzando Borders
+illuminati hotties – Kiss Yr Frenemies
+Simone Dinnerstein – Circles: Piano Concertos by Bach + Glass
+Beach House – 7
+Frank Turner – Be More Kind
+Sigur Rós – Route One
+Leon Bridges – Good Thing
+Gaz Coombes – World’s Strongest Man
+Eleanor Friedberger – Rebound
+Shakey Graves – Can't Wake Up
+Middle Kids – Lost Friends
+Pinkshinyultrablast – Miserable Miracles
+Forth Wanderers – Forth Wanderers
+Half Waif – Lavender
+Janelle Monáe – Dirty Computer
+Tom Rush – Voices
+Grouper – Grid of Points
+Speedy Ortiz – Twerp Verse
+DRINKS – Hippo Lite
+Pizzagirl – An Extended Play
+Exitmusic – The Recognitions
+Ashley Paul – Lost in Shadows
+Whyte Horses – Empty Words
+Hinds – I Don't Run
+Beak> – L.A. Playback
+King Tuff – The Other
+Goldmund – Occasus
+L.A. Salami – The City of Bootmakers
+Laura Veirs – The Lookout
+A Place To Bury Strangers – Pinned
+Juliana Hatfield – Juliana Hatfield Sings Olivia Newton-John
+Say Sue Me – Where We Were Together
+Unknown Mortal Orchestra – Sex & Food
+Charlotte Day Wilson – Stone Woman
+Ty Segall – Freedom's Goblin
+Wye Oak – The Louder I Call, the Faster It Runs
+Hop Along – Bark Your Head Off, Dog
+Dark Times – Tell Me What I Need
+Clarice Jensen – For This From That Will Be Filled
+Christina Vantzou – No. 4
+The Voidz – Virtue
+Sergei Rachmaninoff – Rachmaninov: 24 Preludes
+Frankie Cosmos – Vessel
+Jean Grae – Everything's Fine
+Orquesta Akokán – Orquesta Akokán
+Sunflower Bean – Twentytwo in Blue
+Caitlin Canty – Motel Bouquet
+The Lemon Twigs – Foolin' Around / Tailor Made
+Jukebox The Ghost – Off To The Races
+Lucy Dacus – Historian
+Jack White – Boarding House Reach 2
+Sun Ra – Of Abstract Dreams
+Mount Eerie – Now Only
+Yo La Tengo – There's a Riot Going On
+David Byrne – American Utopia
+Steve Reich – Steve Reich: Drumming
+Young Fathers – Cocoa Sugar
+Brad Mehldau – After Bach
+Suuns – Felt
+Anna von Hausswolff – Dead Magic
+Sorority Noise – YNAAYT
+Superorganism – Superorganism
+Tiny Moving Parts – Swell
+The Men – Drift
+The Lovely Eggs – This Is Eggland
+Hailu Mergia – Lala Belu
+S. Carey – Hundred Acres
+Kronos Quartet – Landfall
+Ought – Room Inside the World
+Marlon Williams – Make Way for Love
+Loma – Loma
+Car Seat Headrest – Twin Fantasy
+Hockey Dad – Blend Inn
+MGMT – Little Dark Age
+The Spook School – Could It Be Different?
+Mimicking Birds – Layers of Us
+Rhye – Blood
+Erik Satie – Satie: Complete Piano Works, Vol. 2
+Steve Reich – Steve Reich: Pulse / Quartet
+Porches – The House
+Django Django – Marble Skies
+José González – & The Brite Lites at Svenska Grammofonstudion
+Helado Negro – Island Universe Story Four
+Nils Frahm – All Melody
+Khruangbin — Con Todo El Mundo
+Strand of Oaks – Harder Love
+Ron Gallo – Really Nice Guys
+First Aid Kit – Ruins
+Belle & Sebastian – How to Solve Our Human Problems (Part 2)
+Shopping – The Official Body
+Tune-Yards – I can feel you creep into my private life
+Jonny Greenwood — Phantom Thread (Original Motion Picture Soundtrack)
+Phoebe Bridgers – Stranger in the Alps
+Car Seat Headrest – Twin Fantasy (Mirror To Mirror)
+Various Artists – Jazz Party
+Kaitlyn Aurelia Smith – The Kid
+Kaitlyn Aurelia Smith – EARS
+Lisa LeBlanc – Why You Wanna Leave Runaway Queen?
 Chilly Gonzales – Room 29
-The Magnetic Fields – Selections from 50 Song Memoir
-Fink – Fink’s Sunday Night Blues Club, Vol. 1
-Conor Oberst – Salutations
-Horsebeach – Beauty & Sadness
-ANOHNI – Paradise
-Sorority Noise – You're Not As ______ As You Think
-Spoon – Hot Thoughts
-Surf Curse – Nothing Yet
-Rolling Blackouts Coastal Fever – The French Press
-Ron Gallo – HEAVY META
-Dude York – Sincerely
-Cherry Glazerr – Apocalipstick
-John Mayer – The Search for Everything - Wave Two
-Methyl Ethel – Everything Is Forgotten
-Lambchop – Is a Woman (Deluxe Reissue)
-The Besnard Lakes – The Besnard Lakes Are The Divine Wind
-Béla Fleck – Juno Concerto
-Holly Macve – Golden Eagle
-Emily Wells – In the Hot
-Shit And Shine – Total Shit!
-WHY? – Moh Lhean
-Sleaford Mods – English Tapas
-Bleached – Can You Deal?
-Grandaddy – Last Place
-Gabriel Garzón-Montano – Jardín
-Old 97's – Graveyard Whistling
-Pissed Jeans – Why Love Now
-Los Campesinos! – Sick Scenes
-Clap Your Hands Say Yeah – The Tourist
-Nadine Khouri – The Salted Air
-Gabriel Mayers – Live from Court Street
-Gabriel Mayers – Black Black Black, Black Black Black Black
-Thundercat – Drunk
-Sun Kil Moon – Common as Light and Love Are Red Valleys of Blood
-Karriem Riggins – Headnod Suite
-Xiu Xiu – FORGET
-Peter Silberman – Impermanence
-Mannequin Pussy – Mannequin Pussy on Audiotree Live
-Dirty Projectors – Dirty Projectors
-Middle Kids – Middle Kids EP
-Marco Benevento – Woodstock Sessions
-Animal Collective – The Painters EP
-Esmé Patterson – We Were Wild
-Strand of Oaks – Hard Love
-Maggie Rogers – Now That The Light Is Fading
-The Orwells – Terrible Human Beings
-Jens Lekman – Life Will See You Now
-Bing & Ruth – No Home of the Mind
-Ryan Adams – Prisoner
-Grails – Chalice Hymnal
-Andy Shauf – The Party
-Philip Glass – Glass Essentials: An 80th Anniversary Tribute
-The Impressions – Fool For You
-Teen Daze – Themes for Dying Earth
-Beach Slang – HERE, I MADE THIS FOR YOU (Beach Slang Mixtape Vol. 2)
-Porcelain Raft – Microclimate
-J Dilla – The King of Beats, Vol 2: Lost Scrolls
-STRFKR – Vault Vol. 1
-Sampha – Process
-Lift To Experience – The Texas-Jerusalem Crossroads
-Communions – Blue
-Surfer Blood – Snowdonia
-Moon Duo – Occult Architecture Vol. 1
-Throttle Elevator Music – Retrorespective
-Rose Elinor Dougall – Stellular
-Emily Yacina – Overflow
-Death In Vegas – The Contino Sessions
-Delicate Steve – This Is Steve
-Ariel Pink – Myths 002
-Austra – Future Politics
-Víkingur Ólafsson - Philip Glass: Piano Works
-Japandroids – Near To The Wild Heart Of Life
-Cloud Nothings – Life Without Sound
-Chris Thile – Chris Thile & Brad Mehldau
-Foxygen – Hang
-The xx – I See You
-The Flaming Lips – Oczy Mlody
-Bonobo – Migration
-SOHN – Rennen
+Alexandra Streliski – Pianoscope
+The Band – Music From Big Pink (Remastered)
+Department Of Eagles – In Ear Park
+Steven Isserlis – The Cello in Wartime
+Drivin N Cryin Complete Collection
+Failure – Fantastic Planet
+Sonic Youth – Rather Ripped
+Richard Houghten – Sonata De Grillo
+Pulp – Different Class / Deluxe Edition
+Beirut – The Flying Club Cup
+Jean-Michel Blais – Il (Deluxe)
+THICK – It's Always Something..
+Fela Kuti – Upside Down
+Steve Reich – Music for 18 Musicians
+Seth Avett & Jessica Lea Mayfield – Seth Avett & Jessica Lea Mayfield Sing Elliott Smith
+Rachel Grimes – Music for Egon Schiele
+Julius Eastman – Julius Eastman: Unjust Malaise
+The Cranberries – Everybody Else Is Doing It, So Why Can't We?
+David Bowie – Scary Monsters
+Apparat – Walls
+Mal Waldron – Warm Canto
+Najlepse pesmi za otroke 1
+Emahoy Tsegué-Maryam Guébrou – Ethiopiques, vol. 21: Emahoy (Piano Solo)
+Jon Hassell – Aka / Darbari / Java
+Cymbals – The Age of Fracture
+Kocani Orkestar – The Ravished Bride
+Boban Markovic Orkestar – Boban I Marko
 Julian Casablancas — Live From Electric Lady Studios/WRXP New York
 Max Richter – The Blue Notebooks
 Chilly Gonzales – Solo Piano II
@@ -189,7 +278,7 @@ Quasimoto – The Unseen 2
 Eleanor Friedberger - Personal Record
 Bobby Charles – Bobby Charles [w/ Bonus Tracks]
 Daniel Johnston - Why Me? (Live Volksbühne Berlin)
-The Most Beautiful Songs In The World
+The Most Beautiful Songs in the World
 Khruangbin — The Universe Smiles Upon You
 Silkworm – Firewater
 Labradford – Mi Media Naranja
@@ -415,6 +504,77 @@ Joan As Police Woman – To Survive
 Matt Elliott – The Mess We Made
 Throw Me The Statue – Creaturesque
 Arcade Fire – Funeral
+Peaceful Piano
+DDash to slleep
+Release Radar
+Discover Weekly
+Vaughn
+Rainy Friday with boygenius
+Hifi Instant Mix - The Damned
+Hifi Edge - Damian's 90's Bar Mitzvah Jams
+Hifi - Not Quite Nocturne
+OctFest 2018
+Hifi Instant Mix - Mt. Heart Attack
+Hifi Edge devil
+Hifi Instant Mix - Every Night
+Roots Canada #sweatstyle
+Hifi Edge - in my life
+Beerland Season 3: Meg’s Favorite Tracks
+Chick-fil-A: Back to School
+Get your Theraflu
+Taco Bell: Feed the Beat
+Hifi CLI Playlist
+Hifi Edge - D
+Hifi Instant Mix - Violents
+Hifi Edge - la llorona
+Hifi Edge - A trip down 251 Memory Lane
+Hifi Instant Mix - For Dave
+Hifi Pulse - for Sy
+Hifi Edge - A trip down 251 Memory Lane
+Hifi Edge - frumpy dad music
+Kitsuné America | The Best Music From North America
+Hifi Instant Mix - 2:45 AM, Elliott Smith
+Hifi Instant Mix - Sentimental, Duke version
+Hifi Instant Mix - Fela
+Hifi Pulse - Never As Tired...
+Hifi Instant Mix - Deerhunter
+Jason Derulo Tip Toe Jams
+Hifi Edge - Jean Genie
+Hifi Pulse - someone great
+Hifi Instant Mix -Vaughn
+Hifi Edge - Khruangbin
+Hifi Pulse guess I'm doing fine
+Hifi Edge ladies! 
+Maya Jane Coles Essentials
+Hifi Instant Mix - purple rain
+Hifi Pulse - ✋ 
+Hifi Edge - The Man Who Sold The World
+Hifi Instant Mix - Upbeat 80's
+Hifi Instant Mix - true love
+Hifi Instant Mix Roxanne, for Vaughn
+Hifi Instant Mix - Paper Tiger
+Hifi Instant Mix - EIIRP
+Hifi : Malian Blues : ASCO
+Hifi Edge dancey
+Hifi Instant Mix Miyagi
+Hifi Pulse - let me get there
+Hifi Edge - Mash2Brash
+Hifi Edge 09 05
+Hifi Instant Mix - I Wish I Knew
+Hifi Pulse - Talk To Me
+Hifi Instant Mix - Give Out
+Hifi Instant Mix - Downer (new)
+Jon Theodore :: Villains
+Ultra Records: New Releases
+Hifi Instant Mix - Dirty Beaches, from Steverb
+Hifi Essential Indie
+Hifi Instant Mix - acoustic Alaska
+Hifi Edge - Friday hits
+Hifi Pulse - Friday hits
+Hifi Instant Mix - Steve loves John Maus
+Hifi Pulse - good one
+Hifi Instant Mix - Girlpool Monday
+Hifi Instant Mix - black ice cream
 Griffins 2017 Calder Cup Playoffs Mix
 Hifi Edge - Indie Goldies
 Hifi Instant Mix - City Bus
@@ -485,6 +645,419 @@ De Lux
 ⭐ Hifi: sweet rad sweet
 ⭐Hifi: Nocturne No. 2
 ⭐Hifi: Kid A
+The Saddest Playlist on Spotify
+Jazz & Joint
+D'Angelo Sessions
+RISE Presents Joji
+Get vocal, Georgia!
+Mid90s
+Intense Studying
+Mindful Miles
+Summertime dues
+This Is Andrea Bocelli
+Holy Rollers
+I make a playlist?
+Killer No Filler LPs
+Latest Top Songs: Alternative, Indie, Pop, Rock, Hip-Hop, till you don't stop
+Songs We Love: Tom Huizenga's Playlist
+The Austin 100
+What We Love At SXSW 2018
+Not Downers
+Best of 2018
+Your Top Songs 2017
+The Ones That Got Away
+Your Time Capsule
+Oh My Rockness Radio
+This Month, Every Month (Alumni)
+These Old Tracks
+🔺🦄🦆⏣☉⦁ ☉⦁ ⏣　͞　͞　⃝　͘　͞　͡⃝  🐬💾🐬💾🐬ཀ༼ༀ༽ཫ་῍̩̖̬ ̎ ̎✧🐝💽🐝💽🐝 OOOOOOOooo{}{}{}{}{}{}_____________
+Big bed Matty
+Broken Social Scene: Rainy Day
+Broken Social Scene: Road Trip
+The Royal Tenenbaums
+Spotify.Me
+Classical Music to Watch the Stars
+Your Summer Rewind
+Release Radar
+Best of 2018 🔊
+The Director's Cut: All Things Considered
+17 Bands to See at SXSW 2017
+some of dat heavy classical
+Haze
+Blonded
+Cheat Sheet: Dr. Dre
+Songpickr: 2018 Best Songs of the Year (Americana, Indie, Rock, Folk, Blues, Soul, etc)
+Prince: MUSIC
+This Is: Animal Collective
+Wonder Weekly
+2016-2017, you guys
+2016
+Your Top Songs 2016
+1,000 Days, 1,000 Songs
+Leaving New York Vegas
+Hipster International
+Audible Hiss: Diving Into the '90s Indie Deep End
+New Songs For Overcast Days
+Sad Bastard Music
+Babe Dance Jams
+Classic Babe Jams OR Classical Songs for Babies
+Baby Einstein
+Labor Day 2016
+Discover Weekly
+Emily Yacina: I Like
+jackals and pixie dust
+Goin Down: New Indie Rock Releases
+Aquarium Drunkard Presents: Decade / 2005-2015
+Asthma (Soundtrack)
+Lifetime Grooves
+Dinner With Friends ♫
+Excessively Searching
+Hifi Twin Peaks
+NPR Music's Songs Of 2016
+The Place Lives: An Introduction to Phil Elverum
+Late Night Indie
+Cream
+(Yams 0334) Blank Tapes: John Vol 4
+Y.O.D. - 1576
+I Saved Latin! A Tribute to Wes Anderson
+JFK to LAX
+Lo-fi Indie
+Y.O.D. - 0812
+Blank Tapes: Stereolab - Past, Future
+Oh My Rockness: 16 Bands To See at SXSW 2016
+The Friday Takeover - Hooton Tennis Club
+Y.O.D. - 0519
+Peaceful Indie Ambient
+Y.O.D. - 0393
+This Month, Every Month (September 2018)
+Fritzl's Lunchbox (In The Kitchen)
+Lindstrøm – Lindstrom & Prins Thomas
+Scratched Vinyl. Red Wine.
+Rough Trade Office Listening
+R&S - office favourites
+2015 - Some Good Songs
+2015 - My Favorite Albums
+New Singles - Pre-2016
+Lena's Best of 2015
+Katie's Secret Project
+undercurrents
+Hoppipolla
+To Paris, With Love, On A Friday
+Sunday Night Heroes
+Secret Project
+Topshelf Records 2015 CMJ Showcase
+15 Bands To See At CMJ 2015
+New American Classic – Taking Back Sunday
+San Francisco
+LoisaidaSam's jams
+Find them Next
+Fresh Finds
+New Music Friday
+The Bowery Presents: Bands to See the Week of 8/10
+fodVtst
+Hifi Playlist
+Hifi Playlist
+Hifi Playlist
+I Always Wanted To Be A Tenenbaum
+From Bottle Rocket To Isle Of Dogs - Wes Anderson Soundtracks
+(╯°□°)╯∘˚˳°
+2015-01-14 - After Work Cooldown
+NYE, 2014
+2014 Kanine Records Hit List
+horns
+6 :: Into The Night
+Play it forward
+My Top 100 Songs
+Hifinding December 2014
+HiFi
+Starred
+Best of 2014 🔊
+Half Birthday Sleepybones
+Indie Workout
+Wedding Playlist
+Friday 90's Throwback
+#BSinBK, the soundtrack
+Wedding Procession
+2014-02-21 - Rehearsal Dinner
+Epic Album Closers
+5 :: Winter Wooksie
+September 
+Favorite Songs of 2011
+Sleepybones - Love song for Jamathon
+sounds from the big screen
+Soundtracks
+Liked from Radio
+Pitchfork 2013: Best New Tracks
+Riker's Best of 2012
+Best Indie Music of 2012
+GORILLA VS. BEAR :: ALBUMS OF 2012
+Zemanta Office a la Sammy Sands
+Feel-Good Indie Rock
+Good New-ish Stuff
+Lay lady lay
+BBQueue
+The Chocolate Tour
+DVS - Skate More
+Slovenia Loves The 90s
+Hot Shower, Cold Beer; For Emily Sandberg
+Top 50 of 2011
+Best Songs Of 2011 So Far
+11 fav albums 2011
+19 favs 2011 + #20 James Blake Love What Happened Here
+Pitchfork 2011: 8.0+ Reviews
+My Pants Are Full Of Shit
+The Orchard's Best of 2012
+Baeble Top 15 of 2012 so far (the ones I like)
+New Music Tipsheet Releases
+Violents – Awake And Pretty Much Sober
+Moses Sumney – Aromanticism
+Rostam – Half-Light
+Giant Claw - Soft Channel
+Wolf Parade – Cry Cry Cry
+St. Vincent – MASSEDUCTION
+Sufjan Stevens — The Greatest Gift
+Björk — Utopia
+Puma Blue – Swum Baby
+Teen Daze – Themes for a New Earth
+Sleigh Bells – Kid Kruschev
+Gun Outfit – Out of Range
+Tennis – We Can Die Happy
+Angel Olsen – Phases
+John Maus — Screen Memories
+Julien Baker — Turn Out the Lights
+Stars – There Is No Love In Fluorescent Light
+Sébastien Tellier – A Girl Is a Gun (Music from the Original Series)
+The Rural Alberta Advantage – The Wild
+Grandaddy – Things Anyway
+King Krule – The OOZ
+Courtney Barnett – Lotta Sea Lice
+Beck — Colors
+Balmorhea – Clear Language
+Godspeed You! Black Emperor – Luciferian Towers
+The Horrors – V
+The Lemon Twigs – Brothers of Destruction
+Delicate Steve – Cowboy Stories
+Four Tet – New Energy
+Protomartyr – Relatives In Descent
+Kamasi Washington – Harmony of Difference
+TORRES – Three Futures
+Clark – Rellik EP
+Fink – Resurgam
+Ariel Pink – Dedicated To Bobby Jameson
+Ducktails – Jersey Devil
+Emily Haines & The Soft Skeleton – Choir of the Mind
+Foo Fighters – Concrete and Gold
+Lastlings – Verses
+Syd – Always Never Home
+retrying ...1secs
+Mourn – Over the Wall
+Susanne Sundfør – Music For People In Trouble
+Saint Etienne – Dive
+Mount Kimbie – Love What Survives
+Zola Jesus – Okovi
+Alvvays – Antisocialites
+The National – Sleep Well Beast
+Peter Bernstein – Signs Live! (with Brad Mehldau, Christian Mcbride & Gregory Hutchinson)
+LCD Soundsystem – american dream
+Iron & Wine – Beast Epic
+BROCKHAMPTON – SATURATION 2
+Widowspeak – Expect the Best
+Jacuzzi Boys – Singles 'N' Stuff: 2007 - 2011
+Lone – Ambivert Tools Volume Two
+Cymbals – Light in Your Mind
+Dungen – Häxan (Versions by Prins Thomas)
+The War On Drugs – A Deeper Understanding
+Thee Oh Sees – Orc
+EMA – Exile In The Outer Ring
+Liars – TFCF
+El Ten Eleven – Unusable Love
+together PANGEA – Bulls and Roosters
+Chris Forsyth – Dreaming in the Non-Dream
+Angelo De Augustine – Swim Inside the Moon
+Queens of the Stone Age – Villains
+Grizzly Bear – Painted Ruins
+Kane Strang – Two Hearts and No Brain
+Liars – Coins In My Caged Fist / The Grand Delusional
+Manchester Orchestra – A Black Mile To The Surface
+Tyler, The Creator – Flower Boy
+The Fall – New Facts Emerge
+Self Defense Family – Wounded Masculinity
+Sylvan Esso – Echo Mountain Sessions EP
+Arcade Fire – Everything Now
+Jesca Hoop – Memories Are Now
+The Maldives – Mad Lives
+Childhood – Universal High
+Toro y Moi – Boo Boo
+Washed Out – Mister Mellow
+Public Service Broadcasting – Every Valley
+STRFKR – Vault Vol. 2
+SQÜRL – EP #260
+Shabazz Palaces – Quazarz vs. The Jealous Machines
+Japanese Breakfast – Soft Sounds from Another Planet
+Waxahatchee – Out in the Storm
+Broken Social Scene — Hug Of Thunder
+Planetarium
+Fleet Foxes – Crack-Up
+Radiohead — OK Computer OKNOTOK 1997 2017
+LOOM – Loom
+Ulrika Spacek – Modern English Decoration
+Cigarettes After Sex – Cigarettes After Sex
+Noga Erez – Off The Radar
+Emily Barker – Sweet Kind of Blue
+Modern Cosmology – Summer Long
+Marika Hackman – I’m Not Your Man
+Aldous Harding – Party
+Pumarosa – The Witch
+Max Richter - Behind The Counter with
+TOPS – Sugar at the Gate
+Big Thief — Capacity
+Moon Duo – Killing Time (Expanded Edition)
+Amber Coffman – City of No Reply
+Saint Etienne – Home Counties
+Chastity Belt – I Used to Spend So Much Time Alone
+King Gizzard & The Lizard Wizard – Flying Microtonal Banana
+The Kills – Echo Home - Non-Electric EP
+Sun Kil Moon – 30 Seconds to the Decline of Planet Earth
+Colin Stetson – All This I Do For Glory
+Fink – Fink’s Sunday Night Blues Dubs
+Low Cut Connie – Dirty Pictures (part 1)
+She-Devils – She-Devils
+Wavves – You’re Welcome
+Mulatu Astatke – Mulatu Of Ethiopia
+Girlpool – Powerplant
+Pond – The Weather
+J Dilla – Motor City
+Cashmere Cat – 9
+Feist – Pleasure
+Sylvan Esso – What Now
+Bibio – Beyond Serious
+Forest Swords – Compassion
+Grouplove – Little Mess EP
+The Afghan Whigs – In Spades
+Moon Duo – Occult Architecture Vol. 2
+Perfume Genius – No Shape
+Mac Demarco – This Old Dog
+Emperor X – Oversleepers International
+Helado Negro – Private Energy (Expanded)
+Tiny Vipers – Laughter
+Plants and Animals – Passed Out From The Waltzing (B-Sides)
+Mary Lattimore – Collected Pieces
+Alexandra Savior – Belladonna of Sadness
+The Big Moon – Love in the 4th Dimension
+Soulwax – FROM DEEWEE
+Drake – More Life
+The Shins – Heartworms
+Laura Marling – Semper Femina
+Jay Som – Everybody Works
+Syd – Fin
+Loyle Carner – Yesterday's Gone
+Actress – AZD
+Hercules & Love Affair – Controller (feat. Faris Badwan) [Remixes]
+Monika – Gaia
+Camera Obscura – Keep It Clean (25th Elefant Anniversary Reissue)
+Gary Clark Jr. – Live North America 2016
+Real Estate – In Mind
+Jagwar Ma – Every Now & Zen
+PINS – Bad Thing
+SKATERS – Rock and Roll Bye Bye 2
+The Bug – Concrete Desert
+Gold Connections – Gold Connections - EP
+Chaz Bundick Meets The Mattson 2 – Star Stuff
+Julia Holter – In The Same Room
+Cassels – Foreword
+Cold Beat – Chaos by Invitation
+Diet Cig – Swear I'm Good At This
+Happyness – Write In
+Arca – Arca
+San Fermin – Belong
+Clark – Death Peak
+Future Islands – The Far Field
+Father John Misty – Pure Comedy
+Mount Eerie — A Crow Looked at Me
+Twin Peaks – Urbs in Horto
+Madlib – Bad Neighbor Instrumentals
+Chilly Gonzales – Room 29
+The Magnetic Fields – Selections from 50 Song Memoir
+Fink – Fink’s Sunday Night Blues Club, Vol. 1
+Conor Oberst – Salutations
+Horsebeach – Beauty & Sadness
+ANOHNI – Paradise
+Sorority Noise – You're Not As ______ As You Think
+Spoon – Hot Thoughts
+Surf Curse – Nothing Yet
+Rolling Blackouts Coastal Fever – The French Press
+Ron Gallo – HEAVY META
+Dude York – Sincerely
+Cherry Glazerr – Apocalipstick
+John Mayer – The Search for Everything - Wave Two
+Methyl Ethel – Everything Is Forgotten
+Lambchop – Is a Woman (Deluxe Reissue)
+The Besnard Lakes – The Besnard Lakes Are The Divine Wind
+Béla Fleck – Juno Concerto
+Holly Macve – Golden Eagle
+Emily Wells – In the Hot
+Shit And Shine – Total Shit!
+WHY? – Moh Lhean
+Sleaford Mods – English Tapas
+Bleached – Can You Deal?
+Grandaddy – Last Place
+Gabriel Garzón-Montano – Jardín
+Old 97's – Graveyard Whistling
+Pissed Jeans – Why Love Now
+Los Campesinos! – Sick Scenes
+Clap Your Hands Say Yeah – The Tourist
+Nadine Khouri – The Salted Air
+Gabriel Mayers – Live from Court Street
+Gabriel Mayers – Black Black Black, Black Black Black Black
+Thundercat – Drunk
+Sun Kil Moon – Common as Light and Love Are Red Valleys of Blood
+Karriem Riggins – Headnod Suite
+Xiu Xiu – FORGET
+Peter Silberman – Impermanence
+Mannequin Pussy – Mannequin Pussy on Audiotree Live
+Dirty Projectors – Dirty Projectors
+Middle Kids – Middle Kids EP
+Marco Benevento – Woodstock Sessions
+Animal Collective – The Painters EP
+Esmé Patterson – We Were Wild
+Strand of Oaks – Hard Love
+Maggie Rogers – Now That The Light Is Fading
+The Orwells – Terrible Human Beings
+Jens Lekman – Life Will See You Now
+Bing & Ruth – No Home of the Mind
+Ryan Adams – Prisoner
+Grails – Chalice Hymnal
+Andy Shauf – The Party
+Philip Glass – Glass Essentials: An 80th Anniversary Tribute
+The Impressions – Fool For You
+Teen Daze – Themes for Dying Earth
+Beach Slang – HERE, I MADE THIS FOR YOU (Beach Slang Mixtape Vol. 2)
+Porcelain Raft – Microclimate
+J Dilla – The King of Beats, Vol 2: Lost Scrolls
+STRFKR – Vault Vol. 1
+Sampha – Process
+Lift To Experience – The Texas-Jerusalem Crossroads
+Communions – Blue
+Surfer Blood – Snowdonia
+Moon Duo – Occult Architecture Vol. 1
+Throttle Elevator Music – Retrorespective
+Rose Elinor Dougall – Stellular
+Emily Yacina – Overflow
+Death In Vegas – The Contino Sessions
+Delicate Steve – This Is Steve
+Ariel Pink – Myths 002
+Austra – Future Politics
+Víkingur Ólafsson - Philip Glass: Piano Works
+Japandroids – Near To The Wild Heart Of Life
+Cloud Nothings – Life Without Sound
+Chris Thile – Chris Thile & Brad Mehldau
+Foxygen – Hang
+The xx – I See You
+The Flaming Lips – Oczy Mlody
+Bonobo – Migration
+SOHN – Rennen
+2017 Singles
+2017-05-15
 2017-04-17
 2017-03-27
 2016-11-07
@@ -533,136 +1106,6 @@ Discover Weekly - 2015-08-10
 Discover Weekly - 2015-08-03
 Discover Weekly - 2015-07-27
 Discover Weekly - 2015-07-23
-Best of 2017 📡
-The Director's Cut: All Things Considered
-17 Bands to See at SXSW 2017
-some of dat heavy classical
-Haze
-Blonded
-Cheat Sheet: Dr. Dre
-Songpickr: 2017 Best Songs
-Prince: MUSIC
-This Is: Animal Collective
-Wonder Weekly
-2016-2017, you guys
-2016
-Your Top Songs 2016
-1,000 Days, 1,000 Songs
-Leaving New York Vegas
-Hipster International
-Audible Hiss: Diving Into the '90s Indie Deep End
-New Songs For Overcast Days
-Sad Bastard Music
-Babe Dance Jams
-Classic Babe Jams OR Classical Songs for Babies
-Baby Einstein
-Labor Day 2016
-Discover Weekly
-Emily Yacina: I Like
-jackals and pixie dust
-Goin Down: New Indie Rock Releases
-Aquarium Drunkard: Decade / 2005-2015
-Asthma (Soundtrack)
-Lifetime Grooves
-Dinner With Friends ♫
-Excessively Searching
-Hifi Twin Peaks
-NPR Music's Songs Of 2016
-The Place Lives: An Introduction to Phil Elverum
-Late Night Indie
-Cream
-(Yams 0334) Blank Tapes: John Vol 4
-Y.O.D. - 1576
-I Saved Latin! A Tribute to Wes Anderson
-JFK to LAX
-Indie Songs For Slackers
-Y.O.D. - 0812
-Blank Tapes: Stereolab - Past, Future
-Oh My Rockness: 16 Bands To See at SXSW 2016
-The Friday Takeover - Hooton Tennis Club
-Y.O.D. - 0519
-Peaceful Indie Ambient
-Y.O.D. - 0393
-This Month, Every Month (April 2017)
-Fritzl's Lunchbox (In The Kitchen)
-Lindstrøm – Lindstrom & Prins Thomas
-Scratched Vinyl. Red Wine.
-Office Listening
-R&S - office favourites
-2015 - Some Good Songs
-2015 - My Favorite Albums
-New Singles - Pre-2016
-Lena's Best of 2015
-Katie's Secret Project
-undercurrents
-Hoppipolla
-To Paris, With Love, On A Friday
-Sunday Night Heroes
-Secret Project
-Topshelf Records 2015 CMJ Showcase
-15 Bands To See At CMJ 2015
-New American Classic – Taking Back Sunday
-San Francisco
-LoisaidaSam's jams
-Find them Next
-Fresh Finds
-New Music Friday
-The Bowery Presents: Bands to See the Week of 8/10
-fodVtst
-Hifi Playlist
-Hifi Playlist
-Hifi Playlist
-I Always Wanted To Be A Tenenbaum
-From Bottle Rocket To The Grand Budapest Hotel - Wes Anderson Soundtracks
-(╯°□°)╯∘˚˳°
-2015-01-14 - After Work Cooldown
-NYE, 2014
-2014 Kanine Records Hit List
-horns
-6 :: Into The Night
-Play it forward
-My Top 100 Songs
-Hifinding December 2014
-HiFi
-Starred
-Best of 2014 📡
-Half Birthday Sleepybones
-Indie Workout
-Wedding Playlist
-Friday 90's Throwback
-#BSinBK, the soundtrack
-Wedding Procession
-2014-02-21 - Rehearsal Dinner
-Epic Album Closers
-5 :: Winter Wooksie
-September 
-Favorite Songs of 2011
-Sleepybones - Love song for Jamathon
-sounds from the big screen
-Soundtracks
-Liked from Radio
-Pitchfork 2013: Best New Tracks
-Riker's Best of 2012
-Best Indie Music of 2012
-GORILLA VS. BEAR :: ALBUMS OF 2012
-Zemanta Office a la Sammy Sands
-Feel Good Indie Rock
-Good New-ish Stuff
-Lay lady lay
-BBQueue
-The Chocolate Tour
-DVS - Skate More
-Slovenia Loves The 90s
-Hot Shower, Cold Beer; For Emily Sandberg
-Top 50 of 2011
-Best Songs Of 2011 So Far
-11 fav albums 2011
-19 favs 2011 + #20 James Blake Love What Happened Here
-Pitchfork 2011: 8.0+ Reviews
-My Pants Are Full Of Shit
-The Orchard's Best of 2012
-Baeble Top 15 of 2012 so far (the ones I like)
-New Music Tipsheet Releases
 Donny McCaslin – Beyond Now
 Marquis Hill – The Way We Play
 King Creosote – Astronaut Meets Appleman
