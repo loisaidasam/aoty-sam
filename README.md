@@ -2,6 +2,8 @@
 
 Sam's Album of the Year + helper tools
 
+![aoty.png](aoty.png)
+
 (logo via https://en.wikipedia.org/wiki/Album_of_the_Year_(website))
 
 I'll likely revisit this lib every December...
