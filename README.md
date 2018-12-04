@@ -16,7 +16,19 @@ All Spotify playlists for a given year can be found in `YYYY-all.txt`.
 
 All Spotify playlists in my account can be found at [all.txt](https://github.com/loisaidasam/aoty-sam/blob/master/all.txt).
 
-# Tools
+# Viewing tools
+
+## random-album
+
+Choose a random album from a given year, default to current year (prints a random line from `YYYY-all.txt`).
+
+```
+$ ./random-album 
+In the year 2018 ...
+Forth Wanderers – Forth Wanderers
+```
+
+# Scraping tools
 
 ## Requirements
 

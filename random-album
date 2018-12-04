@@ -1,0 +1,40 @@
+#!/bin/bash
+
+# http://stackoverflow.com/questions/59895/getting-the-source-directory-of-a-bash-script-from-within
+
+# This is cool, but doesn't work for softlinks
+# via http://stackoverflow.com/a/246128/1406873
+# SCRIPT_PATH="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+# This works for softlinks
+# via http://stackoverflow.com/a/179231/1406873
+SCRIPT_PATH="${BASH_SOURCE[0]}";
+if ([ -h "${SCRIPT_PATH}" ]) then
+  while([ -h "${SCRIPT_PATH}" ]) do SCRIPT_PATH=`readlink "${SCRIPT_PATH}"`; done
+fi
+pushd . > /dev/null
+cd `dirname ${SCRIPT_PATH}` > /dev/null
+SCRIPT_PATH=`pwd`;
+popd  > /dev/null
+
+year="$1"
+if [ -z "$year" ]
+then
+    year="$(date +%Y)"
+fi
+
+echo "In the year $year ..."
+
+dir_spotify="$SCRIPT_PATH"
+
+filename="$dir_spotify/$year-all.txt"
+
+num=$(cat $filename | wc -l)
+
+line_num=$(jot -r 1 1 $num)
+
+album=$(sed -n "$line_num"p $filename)
+
+# echo "year=$year dir_spotify=$dir_spotify filename=$filename num=$num line_num=$line_num album=$album"
+
+echo "$album"
